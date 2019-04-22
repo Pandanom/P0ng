@@ -1,0 +1,10 @@
+C:\Users\stas1\source\repos\Pongo\Pongo\bin\Debug\Pongo.exe.config
+C:\Users\stas1\source\repos\Pongo\Pongo\bin\Debug\Pongo.exe
+C:\Users\stas1\source\repos\Pongo\Pongo\bin\Debug\Pongo.pdb
+C:\Users\stas1\source\repos\Pongo\Pongo\obj\Debug\Pongo.csprojAssemblyReference.cache
+C:\Users\stas1\source\repos\Pongo\Pongo\obj\Debug\Pongo.Form1.resources
+C:\Users\stas1\source\repos\Pongo\Pongo\obj\Debug\Pongo.Properties.Resources.resources
+C:\Users\stas1\source\repos\Pongo\Pongo\obj\Debug\Pongo.csproj.GenerateResource.cache
+C:\Users\stas1\source\repos\Pongo\Pongo\obj\Debug\Pongo.csproj.CoreCompileInputs.cache
+C:\Users\stas1\source\repos\Pongo\Pongo\obj\Debug\Pongo.exe
+C:\Users\stas1\source\repos\Pongo\Pongo\obj\Debug\Pongo.pdb
